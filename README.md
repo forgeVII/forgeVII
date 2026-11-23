@@ -16,12 +16,11 @@ I build integrated hardware: mechanical construction, power, wiring, sensors and
 |---|---|
 | **[Multi-Input Laser Turret](https://github.com/forgeVII/laser_turret)** | STM32 + 2 servos + laser, PC vision and aiming, ESP32 Wi-Fi bridge, 2 s link-loss watchdog |
 | **[Laser Turret PSU](https://github.com/forgeVII/laser_turret_psu)** | 3-cell pack, BMS, dual 5 V rails (MP1584 + XL4015), common ground, 5-pin header |
+| **[Portable Bench PSU](https://github.com/forgeVII/Portable-Bench-PSU)** | 12 V / 3S1P bench supply — dual regulated rails, BMS + fuse, in-place USB-C charging |
 | **[TBAS](https://github.com/forgeVII/TBAS)** | TDOA acoustic direction finding + rolling-code IFF + live browser radar |
 | **[DIY-Rough-Gamepad](https://github.com/forgeVII/DIY-Rough-Gamepad)** | USB HID gamepad / test pad — STM32, MPU6050 IMU, 12 buttons |
 | **[HOTAS_Joystick](https://github.com/forgeVII/HOTAS_Joystick)** | Flight sidestick hand-built from furniture scrap, STM32 USB HID |
 | **[KIT85](https://github.com/forgeVII-org/KIT85)** | Open-source 8085 simulator — web + Android |
-
-Also: portable bench PSU (12 V / 3S1P, dual regulated rails, BMS + fuse, in-place USB-C charging) — private repo.
 
 ---
 
